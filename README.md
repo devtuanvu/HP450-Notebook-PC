@@ -1,4 +1,4 @@
-# HP450-Notebook
+# HP450-Notebook Specs:
 * CPU: Intel Core i5-2450M (Sandy Bridge)
 * iGPU: Intel HD 3000
 * Ram: 8GB
@@ -6,6 +6,7 @@
 * Sound: ALC269
 * LAN: Realtek PCIe GbE Family Controller
 # Working on High Sierra (10.13.6)
+* Bootloader: Clover 5013
 * Intel HD graphics 3000 (512MB)
 * Battery 
 * Speaker + Internal Mic + Headphone
