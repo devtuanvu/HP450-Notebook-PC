@@ -1,0 +1,70 @@
+63:464  1:641  Found UEFI Acpi 2.0 RSDP at AAFFE014
+63:464  0:000  Saving ACPI tables from RSDP AAFFE014 to EFI\CLOVER\ACPI\origin ...
+63:464  0:000   AAFFE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+63:475  0:010    (Xsdt: AAFFE210, Rsdt: AAFFE124)
+63:475  0:000    AAFFE210: 'XSDT', 'SLIC-MPC', Rev: 1, Len: 148 -> XSDT.aml
+63:484  0:008    AAFFE124: 'RSDT', 'SLIC-MPC', Rev: 1, Len: 92 -> RSDT.aml
+63:492  0:008    Tables in Xsdt: 14
+63:492  0:000    0. AAFFB000: 'FACP', 'SLIC-MPC', Rev: 5, Len: 268 -> FACP.aml
+63:501  0:008        (Dsdt: AAFE7000, Facs: AAFBA000, XDsdt: AAFE7000, XFacs: 0)
+63:501  0:000        AAFE7000: 'DSDT', '1854', Rev: 1, Len: 67174 -> DSDT.aml
+63:516  0:014        AAFBA000: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+63:521  0:005    1. AAFFD000: 'UEFI', '1854', Rev: 1, Len: 566 -> UEFI.aml
+63:526  0:004    2. AAFFC000: 'ASF!', '1854', Rev: 32, Len: 165 -> ASF!.aml
+63:531  0:004    3. AAFFA000: 'HPET', '1854', Rev: 1, Len: 56 -> HPET.aml
+63:536  0:004    4. AAFF9000: 'APIC', '1854', Rev: 3, Len: 140 -> APIC.aml
+63:540  0:004    5. AAFF8000: 'MCFG', '1854', Rev: 1, Len: 60 -> MCFG.aml
+63:545  0:004    6. AAFE5000: 'SSDT', '1854', Rev: 1, Len: 4198 -> SSDT-0-1854.aml
+63:550  0:004    7. AAFE3000: 'BOOT', '1854', Rev: 1, Len: 40 -> BOOT.aml
+63:556  0:005    8. AAFE1000: 'ASPT', '1854', Rev: 7, Len: 52 -> ASPT.aml
+63:563  0:006    9. AAFE0000: 'DBGP', '1854', Rev: 1, Len: 52 -> DBGP.aml
+63:569  0:006    10. AAFDE000: 'FPDT', '1854', Rev: 1, Len: 68 -> FPDT.aml
+63:575  0:006    11. AAFDC000: 'SSDT', '1854', Rev: 1, Len: 2474 -> SSDT-1-1854.aml
+63:581  0:006    12. AAFDB000: 'SSDT', '1854', Rev: 1, Len: 2850 -> SSDT-2-1854.aml (Found hidden SSDT 4 pcs)
+63:587  0:005        * A7972018: 'R', '', Rev: 118, Len: 7274595  52 00 65 00 63 00 6F 00 76 00 65 00 72 00 79 00 
+63:587  0:000        * AAE19A98: 'SSDT', 'ApIst', Rev: 1, Len: 771  53 53 44 54 03 03 00 00 01 5E 50 6D 52 65 66 00 Internal length = 771 -> SSDT-x2_0-ApIst.aml
+63:593  0:006        * AAE18018: 'SSDT', 'Cpu0Cst', Rev: 1, Len: 2107  53 53 44 54 3B 08 00 00 01 C0 50 6D 52 65 66 00 Internal length = 2107 -> SSDT-x2_1-Cpu0Cst.aml
+63:599  0:006        * AAE17D98: 'SSDT', 'ApCst', Rev: 1, Len: 281  53 53 44 54 19 01 00 00 01 D4 50 6D 52 65 66 00 Internal length = 281 -> SSDT-x2_2-ApCst.aml
+63:605  0:006  
+63:605  0:000    13. AAFDA000: 'BGRT', '1854', Rev: 1, Len: 56 -> BGRT.aml
+63:611  0:005    Tables in Rsdt: 14
+63:611  0:000    0. AAFFB000: 'FACP', 'SLIC-MPC', Rev: 5, Len: 268
+63:611  0:000        (Dsdt: AAFE7000, Facs: AAFBA000, XDsdt: AAFE7000, XFacs: 0)
+63:611  0:000        AAFE7000: 'DSDT', '1854', Rev: 1, Len: 67174
+63:613  0:001        AAFBA000: 'FACS', Ver: 2, Len: 64
+63:613  0:000    1. AAFFD000: 'UEFI', '1854', Rev: 1, Len: 566
+63:613  0:000    2. AAFFC000: 'ASF!', '1854', Rev: 32, Len: 165
+63:613  0:000    3. AAFFA000: 'HPET', '1854', Rev: 1, Len: 56
+63:613  0:000    4. AAFF9000: 'APIC', '1854', Rev: 3, Len: 140
+63:613  0:000    5. AAFF8000: 'MCFG', '1854', Rev: 1, Len: 60
+63:613  0:000    6. AAFE5000: 'SSDT', '1854', Rev: 1, Len: 4198
+63:613  0:000    7. AAFE3000: 'BOOT', '1854', Rev: 1, Len: 40
+63:613  0:000    8. AAFE1000: 'ASPT', '1854', Rev: 7, Len: 52
+63:613  0:000    9. AAFE0000: 'DBGP', '1854', Rev: 1, Len: 52
+63:613  0:000    10. AAFDE000: 'FPDT', '1854', Rev: 1, Len: 68
+63:613  0:000    11. AAFDC000: 'SSDT', '1854', Rev: 1, Len: 2474
+63:613  0:000    12. AAFDB000: 'SSDT', '1854', Rev: 1, Len: 2850
+63:613  0:000    13. AAFDA000: 'BGRT', '1854', Rev: 1, Len: 56
+63:613  0:000  Found UEFI Acpi 1.0 RSDP at AAFFE000
+63:613  0:000  Printing ACPI tables from RSDP AAFFE000 ...
+63:613  0:000   AAFFE000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+63:613  0:000    (Rsdt: AAFFE038)
+63:613  0:000    AAFFE038: 'RSDT', 'SLIC-MPC', Rev: 1, Len: 92
+63:613  0:000    Tables in Rsdt: 14
+63:613  0:000    0. AAFFB000: 'FACP', 'SLIC-MPC', Rev: 5, Len: 268
+63:613  0:000        (Dsdt: AAFE7000, Facs: AAFBA000, XDsdt: AAFE7000, XFacs: 0)
+63:613  0:000        AAFE7000: 'DSDT', '1854', Rev: 1, Len: 67174
+63:615  0:001        AAFBA000: 'FACS', Ver: 2, Len: 64
+63:615  0:000    1. AAFFD000: 'UEFI', '1854', Rev: 1, Len: 566
+63:615  0:000    2. AAFFC000: 'ASF!', '1854', Rev: 32, Len: 165
+63:615  0:000    3. AAFFA000: 'HPET', '1854', Rev: 1, Len: 56
+63:615  0:000    4. AAFF9000: 'APIC', '1854', Rev: 3, Len: 140
+63:615  0:000    5. AAFF8000: 'MCFG', '1854', Rev: 1, Len: 60
+63:615  0:000    6. AAFE5000: 'SSDT', '1854', Rev: 1, Len: 4198
+63:615  0:000    7. AAFE3000: 'BOOT', '1854', Rev: 1, Len: 40
+63:615  0:000    8. AAFE1000: 'ASPT', '1854', Rev: 7, Len: 52
+63:615  0:000    9. AAFE0000: 'DBGP', '1854', Rev: 1, Len: 52
+63:615  0:000    10. AAFDE000: 'FPDT', '1854', Rev: 1, Len: 68
+63:615  0:000    11. AAFDC000: 'SSDT', '1854', Rev: 1, Len: 2474
+63:615  0:000    12. AAFDB000: 'SSDT', '1854', Rev: 1, Len: 2850
+63:615  0:000    13. AAFDA000: 'BGRT', '1854', Rev: 1, Len: 56
