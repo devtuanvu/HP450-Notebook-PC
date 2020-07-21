@@ -5,7 +5,7 @@
 * WiFi: BCM94352HMB
 * Sound: ALC269
 * LAN: Realtek PCIe GbE Family Controller
-# Working
+# Working on High Sierra (10.13.6)
 * Intel HD graphics 3000 (512MB)
 * Battery 
 * Speaker + Internal Mic + Headphone
@@ -23,6 +23,9 @@ etc...
 * Step 3: After decompression, copy EFI folder to EFI partition
 * Step 4: Edit MLB, ROM, System SerialNumber and SystemUUID in config.plist
 * Step 5: Save and Restart
+
+# Install Mojave with HD3000
+https://github.com/chris1111/Fix-Graphics-HD-3000-Mojave-10.14
 
 [You Can Go To This Group](https://www.facebook.com/groups/hackintosh.vietnam)
 
