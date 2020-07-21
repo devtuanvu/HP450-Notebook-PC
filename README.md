@@ -28,6 +28,9 @@ etc...
 # Install Mojave with HD3000
 https://github.com/chris1111/Fix-Graphics-HD-3000-Mojave-10.14
 
+# Screenshots:
+![1](https://github.com/baooshacker/HP450-Notebook-PC/blob/master/Screenshot/A%CC%89nh%20chu%CC%A3p%20Ma%CC%80n%20hi%CC%80nh%202020-07-21%20lu%CC%81c%2020.58.40.png)
+![2](https://github.com/baooshacker/HP450-Notebook-PC/blob/master/Screenshot/A%CC%89nh%20chu%CC%A3p%20Ma%CC%80n%20hi%CC%80nh%202020-07-21%20lu%CC%81c%2020.59.48.png)
 #
 [You Can Go To This Group](https://www.facebook.com/groups/hackintosh.vietnam)
 
