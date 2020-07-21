@@ -23,3 +23,7 @@ etc...
 * Step 3: After decompression, copy EFI folder to EFI partition
 * Step 4: Edit MLB, ROM, System SerialNumber and SystemUUID in config.plist
 * Step 5: Save and Restart
+
+[You Can Go To This Group](https://www.facebook.com/groups/hackintosh.vietnam)
+
+[Contact me](https://www.facebook.com/hackerpro2003/)
