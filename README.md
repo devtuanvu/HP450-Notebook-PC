@@ -27,6 +27,7 @@ etc...
 # Install Mojave with HD3000
 https://github.com/chris1111/Fix-Graphics-HD-3000-Mojave-10.14
 
+#
 [You Can Go To This Group](https://www.facebook.com/groups/hackintosh.vietnam)
 
 [Contact me](https://www.facebook.com/hackerpro2003/)
