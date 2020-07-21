@@ -10,7 +10,7 @@
 * Battery 
 * Speaker + Internal Mic + Headphone
 * Ethernet
-* WIFI + Bluetooth (replace DW1550)
+* WIFI + Bluetooth + Airdrop + Handoff(replace DW1550)
 * Trackpad (PS2 Touch Pad)
 * HDMI + HDMI Sound
 * Brightness
